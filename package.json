@@ -6,15 +6,16 @@
   "types": "./lib/esm/index.d.ts",
   "license": "MIT",
   "devDependencies": {
+    "@types/react-native": "^0.67.6",
+    "react-native": "^0.68.1",
+    "typescript": "^4.6.3"
+  },
+  "peerDependencies": {
     "@types/react": "^18.0.6",
     "@types/react-dom": "^18.0.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "typescript": "^4.6.3"
-  },
-  "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
   },
   "scripts": {
     "build": "yarn build:esm && yarn build:cjs",
@@ -23,5 +24,5 @@
   },
   "files": [
     "/lib"
- ]
+  ]
 }

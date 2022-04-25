@@ -6,3 +6,4 @@ https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-p
 https://docs.npmjs.com/creating-node-js-modules
 https://docs.npmjs.com/creating-and-publishing-scoped-public-packages
 https://prateeksurana.me/blog/react-library-with-typescript/
+https://stackoverflow.com/questions/66488492/solve-having-more-than-one-copy-of-react-in-the-same-app
