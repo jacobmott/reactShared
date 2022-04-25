@@ -1,8 +1,8 @@
 {
-  "name": "@jacobmott/reactshared",
-  "version": "1.0.0",
+  "name": "@jakemott/reactshared",
+  "version": "1.0.2",
   "description": "shared react-native and react-native-web components and suh",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/jacobmott/reactShared/issues"
   },
-  "homepage": "https://github.com/jacobmott/reactShared#readme"
+  "homepage": "https://github.com/jacobmott/reactShared#readme",
+  "keywords": []
 }
